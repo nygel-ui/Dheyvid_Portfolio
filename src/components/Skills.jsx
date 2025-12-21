@@ -13,7 +13,7 @@ import { useFadeInOnScroll } from '../Hook';
 
 const skills = [
     { name: 'Photoshop', icon: <img src={Photoshop} alt="Photoshop" className="w-10 h-10 sm:w-12 sm:h-12 md:w-16 md:h-16" /> },
-     { name: 'Illustrator', icon: <img src={Illustrator} alt="Illustrator" className="w-10 h-10 sm:w-12 sm:h-12 md:w-16 md:h-16" /> },
+    { name: 'Canva', icon: <img src={Illustrator} alt="Illustrator" className="w-10 h-10 sm:w-12 sm:h-12 md:w-16 md:h-16" /> },
     { name: 'Premiere Pro', icon: <img src={PremierePro} alt="Premiere Pro" className="w-10 h-10 sm:w-12 sm:h-12 md:w-16 md:h-16" /> },
     { name: 'After Effects', icon: <img src={AE} alt="After Effects" className="w-10 h-10 sm:w-12 sm:h-12 md:w-16 md:h-16" /> },
     { name: 'Figma', icon: <img src={Figma} alt="Figma" className="w-10 h-10 sm:w-12 sm:h-12 md:w-16 md:h-16" /> },
