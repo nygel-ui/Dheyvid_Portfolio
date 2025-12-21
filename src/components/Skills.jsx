@@ -3,6 +3,7 @@ import Illustrator from '../assets/icons/Illustrator.png';
 import Photoshop from '../assets/icons/Photoshop.png';
 import PremierePro from '../assets/icons/premiere pro.png';
 import Figma from '../assets/icons/figma.png';
+import Aesprite from '../assets/icons/aesprite.png';
 import ReactIcon from '../assets/icons/react.png';
 import JavaScript from '../assets/icons/javascript.png';
 import HTML5 from '../assets/icons/html.png';
@@ -17,6 +18,7 @@ const skills = [
     { name: 'Premiere Pro', icon: <img src={PremierePro} alt="Premiere Pro" className="w-10 h-10 sm:w-12 sm:h-12 md:w-16 md:h-16" /> },
     { name: 'Capcut', icon: <img src={AE} alt="Capcut" className="w-10 h-10 sm:w-12 sm:h-12 md:w-16 md:h-16" /> },
     { name: 'Figma', icon: <img src={Figma} alt="Figma" className="w-10 h-10 sm:w-12 sm:h-12 md:w-16 md:h-16" /> },
+    { name: 'Aesprite', icon: <img src={Aesprite} alt="Aesprite" className="w-10 h-10 sm:w-12 sm:h-12 md:w-16 md:h-16" /> },
     { name: 'React', icon: <img src={ReactIcon} alt="React" className="w-10 h-10 sm:w-12 sm:h-12 md:w-16 md:h-16" /> },
     { name: 'JavaScript', icon: <img src={JavaScript} alt="JavaScript" className="w-10 h-10 sm:w-12 sm:h-12 md:w-16 md:h-16" /> },
     { name: 'HTML5', icon: <img src={HTML5} alt="HTML5" className="w-10 h-10 sm:w-12 sm:h-12 md:w-16 md:h-16" /> },
