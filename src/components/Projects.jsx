@@ -11,7 +11,7 @@ const categories = [
                     'Photoshop', 
                     // 'Illustrator', 
                     'Premiere Pro', 
-                    'After Effects',
+                    // 'After Effects',
                     // 'Figma', 
                     // 'Code'
                     
