@@ -2,7 +2,7 @@ import { useRef, useEffect, useState } from 'react';
 
 export function useFadeInOnScroll() {
   const ref = useRef();
-  const [isVisible, setIsVisible] = useState(true);
+  const [isVisible, setIsVisible] = useState(false);
 
   useEffect(() => {
     const observer = new window.IntersectionObserver(

@@ -12,15 +12,15 @@ import Love from '../../assets/photoshop/love.png';
 import Pairofpuff from '../../assets/photoshop/pairofpuff.png';
 import Pairofpuff2 from '../../assets/photoshop/pairofpuff2.png';
 import Mallow from '../../assets/photoshop/valentines.png';
-// import poster1 from '../../assets/Essensa/Poster/Apple promo.png'
-// import poster2 from '../../assets/Essensa/Poster/EBPfriday3_2.png'
-// import poster3 from '../../assets/Essensa/Poster/EBPfriday3.3png.png'
-// import poster4 from '../../assets/Essensa/Poster/EBPfriday3.png'
-// import poster5 from '../../assets/Essensa/Poster/glykozee 6-30-25.jpg'
-// import poster6 from '../../assets/Essensa/Poster/Glykozee 7-8-25.jpg'
-// import poster7 from '../../assets/Essensa/Poster/Glykozee.png'
-// import poster8 from '../../assets/Essensa/Poster/NDO 7-6-25.jpg'
-// import poster9 from '../../assets/Essensa/Poster/NDOfriday3.png'
+import poster1 from '../../assets/Essensa/Poster/Apple promo.png'
+import poster2 from '../../assets/Essensa/Poster/EBPfriday3_2.png'
+import poster3 from '../../assets/Essensa/Poster/EBPfriday3.3png.png'
+import poster4 from '../../assets/Essensa/Poster/EBPfriday3.png'
+import poster5 from '../../assets/Essensa/Poster/glykozee 6-30-25.jpg'
+import poster6 from '../../assets/Essensa/Poster/Glykozee 7-8-25.jpg'
+import poster7 from '../../assets/Essensa/Poster/Glykozee.png'
+import poster8 from '../../assets/Essensa/Poster/NDO 7-6-25.jpg'
+import poster9 from '../../assets/Essensa/Poster/NDOfriday3.png'
 
 const photoshopProjects = [
     { title: 'Apple Promo Poster', image: poster1 },
