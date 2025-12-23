@@ -23,6 +23,7 @@ const Intership = () => {
 
                 <p className="text-gray-300 text-base sm:text-lg md:text-xl leading-relaxed mt-4">
                     Guided by its advocacy for environmental sustainability and community growth by setting new standards in eco-friendly automotive practices, using renewable energy and low-carbon facilities to reduce environmental impact, and promoting green initiatives that benefit customers and the local community. The dealership also supports local economic development by providing quality jobs, excellent customer service, and opportunities that help enrich the lives of people in Bulacan and nearby areas.
+                </p>
             </div>
         </section>
     );
