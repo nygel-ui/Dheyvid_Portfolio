@@ -1,8 +1,4 @@
-@import "tailwindcss/preflight";
-@import "tailwindcss/utilities";
-
-/* ...existing code... */
-
+@import "tailwindcss";
 @import './colors.css';
 
 @font-face {
