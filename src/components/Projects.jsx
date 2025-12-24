@@ -10,8 +10,13 @@ import { useFadeInOnScroll } from '../Hook';
 const categories = [
                     'Photoshop', 
                     // 'Illustrator', 
+<<<<<<< HEAD
                     // 'Premiere Pro', 
                     // 'After Effects',
+=======
+                    'Premiere Pro', 
+                    'After Effects',
+>>>>>>> parent of 18bedaa (projects replace)
                     // 'Figma', 
                     // 'Code'
                     
