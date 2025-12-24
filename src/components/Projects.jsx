@@ -7,20 +7,7 @@ import Figma from './projects/Figma';
 import Code from './projects/Code';
 import { useFadeInOnScroll } from '../Hook';
 
-const categories = [
-                    'Photoshop', 
-                    // 'Illustrator', 
-<<<<<<< HEAD
-                    // 'Premiere Pro', 
-                    // 'After Effects',
-=======
-                    'Premiere Pro', 
-                    'After Effects',
->>>>>>> parent of 18bedaa (projects replace)
-                    // 'Figma', 
-                    // 'Code'
-                    
-                    ];
+const categories = ['Photoshop'];
 
 const Projects = () => {
     const [active, setActive] = useState('Photoshop');
